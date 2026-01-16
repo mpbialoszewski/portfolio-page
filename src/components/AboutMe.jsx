@@ -19,7 +19,6 @@ const AboutMe = () => {
           <p>I am still learning a lot of things about Web Development, but I already gained some experience in that field.</p>
           <p>Currently I am working on creating my side projects which I will include in <Link to="#">Portfolio</Link> section when it's ready.</p>
           <p> I am always seeking new opportunities where I can improve and develop my Web Development / Software Engineering skils.</p>
-          <p>If you are interested in collaboration - please contact me with details provided below 😀</p>
         </div>
       </div>
     </div>
