@@ -10,7 +10,7 @@ const Header = () => {
                     <h1>I have worked with such technologies as:</h1>
                     <Typed 
                         className='typed-text'
-                        strings={['Ruby on Rails','React.js', 'Node.js', 'Docker', 'Kubernetes', 'SASS', 'Javascript ES6', 'Spring Boot']}
+                        strings={['Ruby on Rails','React.js', 'Node.js', 'Docker', 'Kubernetes', 'AWS S3', 'Javascript ES6', 'Spring Boot']}
                         typeSpeed={30}
                         backSpeed={60}  
                         loop                  

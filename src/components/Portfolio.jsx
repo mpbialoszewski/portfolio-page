@@ -1,5 +1,5 @@
 import React from 'react'
-import Gallery from '../components/atom/Gallery'
+import Gallery from './Projects/Gallery'
 
 const Portfolio = () => {
   return (
