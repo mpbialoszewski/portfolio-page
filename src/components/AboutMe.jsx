@@ -14,11 +14,9 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xs-12">
           <h1 className="about-heading">About me</h1>
           <h2>Hello! 👋</h2>
-          <p>My name is Mariusz and I am a young developer currently seeking a new position
-          related to Web Development and/or Software Engineering. </p>
-          <p>I am still learning a lot of things about Web Development, but I already gained some experience in that field.</p>
-          <p>Currently I am working on creating my side projects which I will include in <Link to="#">Portfolio</Link> section when it's ready.</p>
-          <p> I am always seeking new opportunities where I can improve and develop my Web Development / Software Engineering skils.</p>
+          <p>My name is Mariusz and I am 
+Full Stack Developer with 2 years of experience in JavaScript frameworks (React, Vue.js), connecting front-end and back-end systems, and deploying solutions with Docker, GCP, and AWS.
+ </p>
         </div>
       </div>
     </div>

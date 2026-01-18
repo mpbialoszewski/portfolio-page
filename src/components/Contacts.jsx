@@ -41,7 +41,7 @@ const Contact = () => {
         <div className="text-center">
 
           <h1>Contact me</h1>
-          <p>Please fill out the form and describe your possible project needs and I will contact you as soon as possible</p>
+          <p>Please fill out the form and describe your possible project needs so I can contact you as soon as possible</p>
         <div className="span success-message">
           {successMessage}
         </div>
